@@ -63,3 +63,7 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+
+#https://stackoverflow.com/questions/8871841/in-android-development-what-files-should-be-committed-to-a-repository
+project.properties
