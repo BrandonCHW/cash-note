@@ -3,7 +3,7 @@ package com.cash_note
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 
-class BudgetList : AppCompatActivity() {
+class BudgetListActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
